@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>jeroabdala &#8211; Jerónimo Abdala</title>
+	<atom:link href="/author/jeroabdala/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Otro sitio realizado con WordPress</description>
+	<lastBuildDate>Tue, 04 Oct 2022 23:30:36 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>Elementor #190</title>
+		<link>/2022/10/04/elementor-190/</link>
+					<comments>/2022/10/04/elementor-190/#respond</comments>
+		
+		<dc:creator><![CDATA[jeroabdala]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 23:30:25 +0000</pubDate>
+				<category><![CDATA[Sin categoría]]></category>
+		<guid isPermaLink="false">/?p=190</guid>
+
+					<description><![CDATA[Jerónimo Abdala Desarrollador Web Full-Stack About Soy Desarrollador Web con mucho interes y entusiasmo en aprender y mejorar como programador Joven apasionado por el ámbito Tecnológico Estudiante Ingenieria en Sistemas &#8211; UTN]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="190" class="elementor elementor-190">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-1691bfe4 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="1691bfe4" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-6232a4b4" data-id="6232a4b4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-757d94c9 elementor-widget elementor-widget-heading" data-id="757d94c9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.8 - 02-10-2022 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h1 class="elementor-heading-title elementor-size-xl">Jerónimo Abdala</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-c0a1dc0 elementor-widget elementor-widget-text-editor" data-id="c0a1dc0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.8 - 02-10-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Desarrollador Web Full-Stack</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-6cc05ed8" data-id="6cc05ed8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2c9e9996 elementor-widget elementor-widget-image" data-id="2c9e9996" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.8 - 02-10-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="324" height="443" src="/wp-content/uploads/2022/09/Sin-titulodsadsa-3.gif" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4c55cfda elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4c55cfda" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3651b049" data-id="3651b049" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4c9fd062 elementor-widget elementor-widget-heading" data-id="4c9fd062" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-large">About</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-511f22a3 elementor-list-item-link-inline elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="511f22a3" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">		<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-arrow-alt-circle-right"></i>						</span>
+										<span class="elementor-icon-list-text">Soy Desarrollador Web con mucho interes y entusiasmo en aprender y mejorar como programador</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-arrow-alt-circle-right"></i>						</span>
+										<span class="elementor-icon-list-text">Joven apasionado por el ámbito Tecnológico</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-arrow-alt-circle-right"></i>						</span>
+										<span class="elementor-icon-list-text">Estudiante Ingenieria en Sistemas - UTN</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/2022/10/04/elementor-190/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
