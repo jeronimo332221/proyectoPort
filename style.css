@@ -7,6 +7,9 @@
   --ast-container-default-xs-padding: 2.4em;
   --ast-container-default-xxs-padding: 1.8em;
 }
+::-webkit-scrollbar {
+  /* display: none; */
+}
 html {
   overflow: scroll;
   font-size: 106.25%;
@@ -23,7 +26,7 @@ button,
 input,
 select,
 textarea,
-.ast-button,
+lementor-animation-shrink attachment-fullast-button,
 .ast-custom-button {
   font-family: "Source Sans Pro", sans-serif;
   font-weight: inherit;
@@ -496,6 +499,9 @@ h3.widget-title {
   color: #ffffff;
   background-color: var(--ast-global-color-1);
   border-color: var(--ast-global-color-1);
+}
+.elementor-widget-heading {
+  z-index: 50;
 }
 .elementor-widget-heading h1.elementor-heading-title {
   line-height: 1.3;
@@ -2298,6 +2304,8 @@ img.emoji {
   .elementor-widget-container,
 .elementor-widget-social-icons.elementor-grid-tablet-0
   .elementor-widget-container {
+  margin: auto;
+  width: 100%;
   line-height: 1;
   font-size: 0;
 }
