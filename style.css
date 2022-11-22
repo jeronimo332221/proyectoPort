@@ -16,6 +16,7 @@ html {
 }
 a {
   color: var(--ast-global-color-0);
+  z-index: 50;
 }
 a:hover,
 a:focus {
@@ -57,12 +58,28 @@ h6,
   font-size: 51px;
   font-size: 3rem;
   display: block;
+  z-index: 50;
 }
 header .custom-logo-link img {
   max-width: 221px;
 }
+#post-128
+  > div
+  > div
+  > section.elementor-section.elementor-top-section.elementor-element.elementor-element-9a9bf2a.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default
+  > div.elementor-container.elementor-column-gap-default
+  > div
+  > div
+  > div.elementor-element.elementor-element-19d9fa6.elementor-list-item-link-inline.elementor-icon-list--layout-traditional.elementor-widget.elementor-widget-icon-list.animated.slideInUp
+  > div
+  > ul
+  > li:nth-child(2)
+  > span {
+  z-index: 50;
+}
 .astra-logo-svg {
   width: 221px;
+  z-index: 50;
 }
 .ast-archive-description .ast-archive-title {
   font-size: 40px;
@@ -2323,12 +2340,14 @@ img.emoji {
   justify-items: var(--justify-content, center);
 }
 .elementor-icon.elementor-social-icon {
+  z-index: 50;
   font-size: var(--icon-size, 25px);
   line-height: var(--icon-size, 25px);
   width: calc(var(--icon-size, 25px) + (2 * var(--icon-padding, 0.5em)));
   height: calc(var(--icon-size, 25px) + (2 * var(--icon-padding, 0.5em)));
 }
 .elementor-social-icon {
+  z-index: 50;
   --e-social-icon-icon-color: #fff;
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
@@ -2344,9 +2363,11 @@ img.emoji {
   cursor: pointer;
 }
 .elementor-social-icon i {
+  z-index: 50;
   color: var(--e-social-icon-icon-color);
 }
 .elementor-social-icon svg {
+  z-index: 50;
   fill: var(--e-social-icon-icon-color);
 }
 .elementor-social-icon:last-child {
@@ -2535,9 +2556,11 @@ img.emoji {
   background-color: #0099e5;
 }
 .elementor-shape-rounded .elementor-icon.elementor-social-icon {
+  z-index: 50;
   border-radius: 10%;
 }
 .elementor-shape-circle .elementor-icon.elementor-social-icon {
+  z-index: 50;
   border-radius: 50%;
 }
 ¿
