@@ -2368,6 +2368,7 @@ img.emoji {
 }
 .elementor-social-icon svg {
   z-index: 50;
+
   fill: var(--e-social-icon-icon-color);
 }
 .elementor-social-icon:last-child {
@@ -2557,6 +2558,7 @@ img.emoji {
 }
 .elementor-shape-rounded .elementor-icon.elementor-social-icon {
   z-index: 50;
+
   border-radius: 10%;
 }
 .elementor-shape-circle .elementor-icon.elementor-social-icon {
@@ -2772,4 +2774,21 @@ img.emoji {
 }
 .elementor-widget-text-editor .elementor-drop-cap-letter {
   display: inline-block;
+}
+#post-128
+  > div
+  > div
+  > section.elementor-section.elementor-top-section.elementor-element.elementor-element-68a2fc5.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default
+  > div
+  > div
+  > div
+  > div.elementor-element.elementor-element-ec698e9.elementor-grid-3.elementor-grid-mobile-0.elementor-shape-rounded.e-grid-align-center.elementor-widget.elementor-widget-social-icons
+  > div
+  > div
+  > span
+  > a
+  > svg {
+  width: 55%;
+  height: 55%;
+  margin: auto;
 }
