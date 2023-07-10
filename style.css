@@ -1376,6 +1376,10 @@ h6,
     > *:last-child {
     grid-column: 1 / -1;
   }
+
+  h2 {
+    text-align: center;
+  }
 }
 @media (max-width: 544px) {
   .ast-builder-grid-row-container.ast-builder-grid-row-mobile-3-firstrow
@@ -2602,7 +2606,7 @@ img.emoji {
 .elementor-widget-divider .elementor-divider-separator {
   border-style: dotted;
   border-width: 5px 5px 5px 5px;
-  border-color: #ffee3273;
+  border-color: var(--wp--preset--color--luminous-vivid-orange);
   border-radius: 40px 40px 40px 40px;
   border-radius: 30px;
   display: -webkit-box;
@@ -2668,8 +2672,7 @@ img.emoji {
     .elementor-widget-divider--view-line_icon
   )
   .elementor-divider-separator {
-  border-top: var(--divider-border-width) var(--divider-border-style)
-    var(--divider-color);
+  border-color: #f1513f73;
 }
 .elementor-widget-divider--separator-type-pattern {
   --divider-border-style: none;
@@ -2814,6 +2817,35 @@ img.emoji {
     > div
     > div
     > div {
+    width: 100%;
+    margin: auto;
+  }
+  #post-128
+    > div
+    > div
+    > section.elementor-section.elementor-top-section.elementor-element.elementor-element-80306b2.elementor-section-height-min-height.elementor-section-full_width.elementor-section-height-default.elementor-section-items-middle
+    > div.elementor-container.elementor-column-gap-no
+    > div.elementor-column.elementor-col-66.elementor-top-column.elementor-element.elementor-element-f4461aa
+    > div
+    > div.elementor-element.elementor-element-79f49a1a.animated-slow.elementor-absolute.elementor-widget.elementor-widget-heading.animated.fadeIn
+    > div
+    > h1 {
+    margin: auto;
+    margin-top: 200px;
+    font-size: 50px;
+  }
+
+  #post-128
+    > div
+    > div
+    > section.elementor-section.elementor-top-section.elementor-element.elementor-element-80306b2.elementor-section-height-min-height.elementor-section-full_width.elementor-section-height-default.elementor-section-items-middle
+    > div.elementor-container.elementor-column-gap-no
+    > div.elementor-column.elementor-col-66.elementor-top-column.elementor-element.elementor-element-f4461aa
+    > div
+    > div.elementor-element.elementor-element-79f49a1a.animated-slow.elementor-absolute.elementor-widget.elementor-widget-heading.animated.fadeIn {
+    right: 0;
+    bottom: 0;
+    left: 20px;
     width: 100%;
     margin: auto;
   }
