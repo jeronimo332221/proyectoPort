@@ -2832,6 +2832,9 @@ img.emoji {
     > h1 {
     margin: auto;
     margin-top: 200px;
+    margin-bottom: 200px;
+
+    padding: 2rem;
     font-size: 50px;
   }
 
